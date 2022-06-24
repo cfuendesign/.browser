@@ -1,5 +1,5 @@
 # CFBSS Browser Settings Standard + Config Files
-![version IDEAPAD-320-14IAP.1](https://img.shields.io/badge/version-IDEAPAD--320--14IAP.1-brightgreen "version IDEAPAD-320-14IAP.1")
+![version IDEAPAD-320-14IAP.0](https://img.shields.io/badge/version-IDEAPAD--320--14IAP.0-brightgreen "version IDEAPAD-320-14IAP.0")
 
 <!--https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet-->
 <!--https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9-->
